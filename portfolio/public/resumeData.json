@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"Katherine Leung",
+    "occupation":"wannabe UI/UX designer",
+    "description":"I am a student the University of Central Florida. I am curious about how things work and why they work a certain way. I love designing for functionality",
+    "image":"profilepic.jpg",
+    "bio":"I was born in Maracaibo, Venezuela and moved to Florida with my family 9 years ago. Even though, I grew up in warm weather. I prefer cold weather, just not too cold. Like NY during fall cold. I am recent graduate from the University of Central Florida. I love cooking and exploring new cuisines. I enjoy finding new trails to take my dog on long walks. I also love traveling, exploring new places and culture. I took the picture above when I did my first solo trip to NYC!",
+    "contactmessage":"Send me a message and I will get back to you as soon as possible!",
+    "email": "leunk14@gmail.com",
+    "phone": "954-849-0070",
+    "address":{
+      "city":"Orlando",
+      "state":"Florida"
+    },
+    "website": "http://leunk.github.io/index",
+    "resumedownload":"https://bit.ly/3bhXLBv",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/katherine-leung-6b1324138/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/leunk",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Stuff that I kind of know. Sort of like a jack of all trades but a master of none.",
+    "education":[
+      {
+        "school":"University of Central Florida",
+        "degree":"Bachelor of Arts",
+        "graduated":"April 2020",
+        "description":"Bachelor of Arts in Digital Media (Web Design and Social Platforms Track)"
+      },
+      {
+        "school":"Broward College",
+        "degree":"Associate of Arts",
+        "graduated":"April 2017",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Justice",
+        "title":"Brand Representative",
+        "years":"February 2015 - March 2016",
+        "description":"Provided customer service, prioritized customer requests and recommended products to customers. Maintained sales floor presentation and upheld the company's brand. Shelve and organized merchandise as needed. Worked along with co-workers to meet daily sales goal"
+      },
+      {
+        "company":"Memorial Hospital Miramar",
+        "title":"Information Desk Volunteer",
+        "years":"June 2014 - December 2016",
+        "description":"Provided information to callers while following HIPAA regulations and directed callers to the proper location, department, or doctor's office. Receive, greet, and guide visitors to the right location. Assisted visitors, family and patients around the hospital walking or by wheelchair"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git/GitHub",
+        "level":"60%"
+      },
+      {
+        "name":"Adobe XD",
+        "level":"80%"
+      },
+      {
+        "name": "Prototyping",
+        "level": "80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Photoshop/Illustrator",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"40%"
+      },
+      {
+        "name":"React",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ALIVE",
+        "category":"Revamping an organization's website",
+        "image":"alive-screen.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Parramore Interactive Heritage Trail Project",
+        "category":"UCF Grant Project",
+        "image":"parramore-screen.png",
+        "url":"#"
+      },
+      {
+        "title":"Flower Channel",
+        "category":"Flower Channel assignment for Client-Side class",
+        "image":"flowerchannel-screen.jpg",
+        "url":"#"
+      },
+      {
+        "title": "Safe Pet",
+        "category": "Develop an app using UCD practices",
+        "image": "safepet-screen.png",
+        "url": "#"
+      }
+    ]
+  }
+}
